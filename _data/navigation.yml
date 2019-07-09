@@ -3,14 +3,17 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Research"
+    url: /research/  
+
+  - title: "Software"
+    url: /software/
+
   - title: "Projects"
     url: /projects/    
 
   - title: "Awards"
     url: /awards/    
-    
-  - title: "Software"
-    url: /software/
         
   - title: "Blog Posts"
     url: /year-archive/
