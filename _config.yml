@@ -78,11 +78,11 @@ analytics:
     tracking_id          :
 
 
-# Site Author
+# Site Author- "A good-looking leather bag is one of a thousand 'rich brain'"
 author:
   name             : "Xuefeng Li (李学峰)"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate | University of Chinese Academy of Sciences | Academy of Mathematics and System Sciences | A good-looking leather bag is one of a thousand 'rich brain'"
+  bio              : "Ph.D. Candidate | University of Chinese Academy of Sciences | Academy of Mathematics and System Sciences"
   location         : "Beijing China"
   employer         :
   pubmed           : 
