@@ -12,14 +12,14 @@ I’m a Ph.D. candidate student in management science and engineering at Univers
 
 Interests
 ------
-** Economy Simulation
-** Input-Output Analysis
-** Revenue Management, Princing and Promotion
-** Path Planning and Intelligent Dispatch Optimization
-** Machine Learning and Deep Learning
+* Economy Simulation
+* Input-Output Analysis
+* Revenue Management, Princing and Promotion
+* Path Planning and Intelligent Dispatch Optimization
+* Machine Learning and Deep Learning
 
 Education
 ------
-** Ph.D. Candidate in Management Science and Engineering, University of Chinese Academy of Sciences
-** Master in Operation Research,  University of Chinese Academy of Sciences
-** B.S. in Applied Mathematics, 2014, Northwest University, China
+* Ph.D. Candidate in Management Science and Engineering, University of Chinese Academy of Sciences
+* Master in Operation Research,  University of Chinese Academy of Sciences
+* B.S. in Applied Mathematics, 2014, Northwest University, China
