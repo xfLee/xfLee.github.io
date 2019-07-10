@@ -1,5 +1,5 @@
 ---
-title: "An opportunity lost perspective for sale quantity prediction in retail convenience store"
+title: "An opportunity lost perspective for sale quantity prediction in retail convenience store(manuscript)"
 collection: publications
 permalink: /publication/2019-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
