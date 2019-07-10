@@ -11,21 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. Candidate in Management Science and Engineering, University of Chinese Academy of Sciences
+* Master in Operation Research, 2017, University of Chinese Academy of Sciences
+* B.S. in Applied Mathematics, 2014, Northwest University, China
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2019-: Algorithm Engineer
+  * Store Intelligent Decision-making Department, Algorithm and Strategy Team, Bianlifeng.com
+  * Duties included: Promotion, forecasting model and algorithm development
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July 2017-April 2019: Algorithm Engineer
+  * Pricing Management Department, Y Group, JD.com
+  * Duties included: Assortment, promotion and pricing stategies, algorithm development
   
 Skills
 ======
