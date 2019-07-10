@@ -48,4 +48,8 @@ Publications
 
 [More Details](https://xflee.github.io//publications/)
 
-
+Patents
+======
+* March 2018, Method and device for generating configuration information
+* October 2017, Data estimation method and device and computer readable storage medium
+* October 2017, A sales forecasting method based on truncated orthogonal non-negative matrix factorization
