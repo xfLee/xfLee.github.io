@@ -20,12 +20,12 @@ redirect_from:
 ## Course Projects
 * **Algorithmic problems efficient practice strategies(算法问题高效实战策略)**
 
-![Image text](psap.png)
+![Image text](https://xflee.github.io/images/psap.png)
 
 * **Mastering optimization: from theory to practice(掌握优化：从理论走向实践)**
 
-![Image text](mopt.png)
+![Image text](https://xflee.github.io/images/mopt.png)
 
 * **In-depth understanding of machine learning from an engineering perspective(从工程角度深入理解机器学习)**
 
-![Image text](mlep.png)
+![Image text](https://xflee.github.io/images/mlep.png)
