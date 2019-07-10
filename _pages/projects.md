@@ -22,9 +22,11 @@ redirect_from:
 
 ![Image text](https://xflee.github.io/images/psap.png)
 
-理想的书籍是智慧的钥匙，高效的算法是成功的捷径！
+理想的书籍是智慧的钥匙，高效的算法是成功的捷径！--实用的算法课
 
-开篇词|算法问题高效实战策略
+目录
+
+[开篇词|算法问题高效实战策略](https://xflee.github.io/files/intro.pdf)
 
 01|开始解决问题，如何应对算法问题？
 
