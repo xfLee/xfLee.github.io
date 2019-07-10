@@ -23,12 +23,19 @@ redirect_from:
 ![Image text](https://xflee.github.io/images/psap.png)
 
 理想的书籍是智慧的钥匙，高效的算法是成功的捷径！
+
 开篇词|算法问题高效实战策略
+
 01|开始解决问题，如何应对算法问题？
+
 02|不要忽视编码的重要性，你该选择何种编程语言？
+
 03|分析算法的时间复杂度，你真的了解吗？
+
 04|验证算法：基本技巧
+
 05|算法设计范式（1）：暴力解决法
+
 ......
 
 * **Mastering optimization: from theory to practice(掌握优化：从理论走向实践)**
