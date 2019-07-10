@@ -24,34 +24,28 @@ Work experience
 * July 2017-April 2019: Algorithm Engineer
   * Pricing Management Department, Y Group, JD.com
   * Duties included: Assortment, promotion and pricing stategies, algorithm development
-  
+
+Project Experience
+======
+* July 2018-April 2019, Promotion Selections and Promotion Discount Optimization for Items of Self-operated Fast-selling Categories
+
+* November 2017-April 2019, Intelligent Pricing and Price Optimization of Self-operated Fast-selling Categories
+
+[More Details](https://xflee.github.io//projects/)
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Familiar with commonly used statistical analysis methods, e.g.hypothesis testing, factor analysis, regression analysis, principal component analysis, time series analysis, etc.
+* Familiar with common data mining and machine learning, deep learning and optimization algorithms, such as decision trees, random forests, GBDT, XGBoost, neural networks, support vector machines, reinforcement learning, probability graph models, etc.
+* Familiar with operational optimization models and algorithms, with experience in operational optimization analysis, modeling and problem solving.
+* Skilled in using Spark, Python, with experience in data processing, analysis and modeling.
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+[More Details](https://xflee.github.io//publications/)
+
+
