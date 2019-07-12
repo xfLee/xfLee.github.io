@@ -1,5 +1,5 @@
 ---
-title: "A practical system to optimize shelf clerk distribution route with simulated annealing and grouping genetic algorithm(manuscript)"
+title: "A practical system to optimize shelf clerk distribution routes with simulated annealing and grouping genetic algorithm(manuscript)"
 collection: publications
 permalink: /publication/2019-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
