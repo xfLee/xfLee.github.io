@@ -26,6 +26,6 @@ Education
 
 Contact
 ------
-* Email: hensherl@sina.com
+* Email: hensherl@sina.com / lxf@amss.ac.cn
 * WeChat: hensherl
 * Location: 55, Zhong Guan Cun East Road, Beijing 100190, China
