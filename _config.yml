@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Beijing China"
+locale                   : "Hengyang China"
 title                    : "Xuefeng Li * HomePage"
 title_separator          : "-"
 name                     : &name "Your Name"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Xuefeng Li (李学峰)"
   avatar           : "https://xflee.github.io/images/me-life.jpeg"
-  bio              : "Ph.D. Candidate | University of Chinese Academy of Sciences | Academy of Mathematics and System Sciences"
-  location         : "Beijing China"
+  bio              : "Ph.D. in Management Science awarded by University of Chinese Academy of Sciences"
+  location         : "Hengyang China"
   employer         :
   pubmed           : 
   googlescholar    : 
