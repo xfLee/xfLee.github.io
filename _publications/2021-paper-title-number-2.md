@@ -6,7 +6,7 @@ excerpt: 'Wastewater propagation chains (WPCs) measure inter-sector average prop
 date: 2021-12-31
 venue: 'Water'
 paperurl: 
-citation: 'Xuefeng Li, Xiuli Liu. &quot;Identifying hub wastewater propagation chains in China’s national economic system: A model coupled input-output analysis with graphical theory[J].&quot; <i>Water</i>, 2021, 13, Art. 2351(15 pages).'
+citation: 'Xuefeng Li, Xiuli Liu. Identifying hub wastewater propagation chains in China’s national economic system: A model coupled input-output analysis with graphical theory[J]. <i>Water</i>, 2021, 13, Art. 2351(15 pages).'
 ---
 ```This paper is about the number 2. The number 3 is left for future work.
 
