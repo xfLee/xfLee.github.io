@@ -6,7 +6,7 @@ excerpt: '作为一项重大的改革措施，领导干部自然资源资产离�
 date: 2019-12-31
 venue: '重庆理工大学学报(社会科学版)'
 paperurl: 
-citation: '李学峰，唐洋，黄小龙. &quot;自然资源问责审计对水污染治理效率的影响研究[J].&quot; 重庆理工大学学报(社会科学版),2024.'
+citation: '李学峰，唐洋，黄小龙. 自然资源问责审计对水污染治理效率的影响研究[J]. 重庆理工大学学报(社会科学版),2024.'
 ---
 ```This paper is about the number 3. The number 4 is left for future work.
 
