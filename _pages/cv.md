@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Management Science and Engineering, University of Chinese Academy of Sciences
+* Ph.D. in Management Science and Engineering, 2022, University of Chinese Academy of Sciences
 * Master in Operation Research, 2017, University of Chinese Academy of Sciences
 * B.S. in Financial Mathematics, 2014, Northwest University, China
 
